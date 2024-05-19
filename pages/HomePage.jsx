@@ -50,7 +50,7 @@ function HomePage(){
               </div>
               <div className="subpageText">
                 <Link to="/pages/RandomContent" className="subpageA">
-                  <h2 className="subpageText">javascript</h2>
+                  <h2 className="subpageText">Interactivity</h2>
                 </Link>                
               </div>
             </div>
